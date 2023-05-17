@@ -45,10 +45,10 @@ https://docs.google.com/document/d/18HcQci7f6Fh6ST_Xl6Fngch8egIxfjEp3AAeG66nLoI/
 
 ## Links
 - https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
-- 
 
 # Author
 Arif Engin Gündüz
+
 Linkedin - https://www.linkedin.com/in/arifengingunduz/
 
 ## Feedback
