@@ -1,5 +1,7 @@
 # Kamikaze_Operation
 
+Welcome to my first data science Project.
+
 # Details for the Project
 https://docs.google.com/document/d/18HcQci7f6Fh6ST_Xl6Fngch8egIxfjEp3AAeG66nLoI/edit?usp=share_link
 
